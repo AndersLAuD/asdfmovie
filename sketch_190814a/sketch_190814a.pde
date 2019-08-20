@@ -12,5 +12,6 @@ void draw(){
  ellipse(x,y,50,50);
  
  //y = y +2;  
- ellipse(x,y-30,20,20);  
+ ellipse(x,y-30,20,20); 
+ //test
 }
